@@ -1,0 +1,11 @@
+Stanze: Atrio, N11, N10, Laboratorio, Biblioteca, Robotica, N18, Bagno1, Bagno2
+Stanze bloccate: Atrio nord chiave
+Stanze buie: N11 lanterna, Bagno2 lanterna
+Stanze magiche: N10
+Inizio: Atrio
+Vincente: Biblioteca
+Attrezzi: lanterna 3 N18, tomo 2 N11, olleppac 1 Robotica, spadaInLegno 4 Atrio, armaturaInPelle 3 Atrio, spazzolino 1 Bagno1, spadaLeggendaria 5 N18
+Uscite: Biblioteca sud Atrio, Atrio nord Biblioteca, Atrio ovest Laboratorio, Laboratorio est Atrio, Atrio sud N11, N11 nord Atrio, N11 est N10, N10 ovest N11, N10 nord Robotica, Robotica sud N10, Atrio est Robotica, Robotica ovest Atrio, Robotica nord Bagno1, Bagno1 sud Robotica, Robotica est N18, N18 ovest Robotica, Bagno1 est Bagno2, Bagno2 ovest Bagno1 
+Maghi: BildonTetrapak GnomoMago Laboratorio osso 1
+Streghe: Peppina StregaPermalosina Robotica
+Cani: Fuffy WOOF Bagno2 chiave 2
